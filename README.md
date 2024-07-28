@@ -2,4 +2,5 @@
 
 ## A web application to help you with your wordle guesses.
 
-## Built with React
+### Tech Stack:
+Built with JavaScript, React, HTML
