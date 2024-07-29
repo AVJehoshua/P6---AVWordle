@@ -5,6 +5,20 @@
   text-align: center;
 }
 
+.title {
+  font-size: 3.2em;
+}
+
+.paragraph {
+  font-size: 3.2em;
+}
+
+.result {
+  font-size: 3.2em;
+  color: rgba(35, 114, 242, 0.87)
+
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
